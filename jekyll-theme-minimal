@@ -1,0 +1,17 @@
+.planned {
+  position: relative;
+  padding-left: 20px;
+}
+.planned::before {
+  content: "⚠️";
+  position: absolute;
+  left: -15px;
+}
+.tier1::after {
+  content: "T1";
+  background: #dc3545;
+  color: white;
+  padding: 2px 5px;
+  margin-left: 10px;
+  border-radius: 3px;
+}
