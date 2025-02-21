@@ -2,7 +2,8 @@
 
 XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS:GO project has held S1, S2, and S3 seasons, all of which have been included on HLTV. XPL is known as a hidden gem in the Asian esports scene, offering a unique and competitive environment for CS:GO players.
 
-## Event Calendar
+## Event Calendar  [查看赛事日历](events.md)
+
 
 ### XPL S1
 - **Online Qualifiers**: June 24, 2023 - June 27, 2023
