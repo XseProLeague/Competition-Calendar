@@ -2,7 +2,7 @@
 
 XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS project has held S1, S2, and S3 seasons, all of which have been included on HLTV. XPL is known as a hidden gem in the Asian esports scene, offering a unique and competitive environment for CS players.
 
-## Event Calendar  [查看赛事日历](events.md)
+## Event Calendar  [View Event calendar](events.md)
 
 
 ### XPL S1
