@@ -5,7 +5,7 @@ XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS proj
 ## Event Calendar  [View Event calendar](events.md)
 
 
-### XPL S1 [NEWS](http://www.xse.asia/index.php?m=home&c=View&a=index&aid=165&admin_id=1)](http://www.xse.asia/index.php?m=home&c=View&a=index&aid=165&admin_id=1)
+### XPL S1 '[NEWS](http://www.xse.asia/index.php?m=home&c=View&a=index&aid=165&admin_id=1)](http://www.xse.asia/index.php?m=home&c=View&a=index&aid=165&admin_id=1)'
 - **Online Qualifiers**: June 24, 2023 - June 27, 2023
 - **Offline Finals**: July 10, 2023 - July 12, 2023
 - **Location**: Shanghai
