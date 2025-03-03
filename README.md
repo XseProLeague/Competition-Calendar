@@ -22,7 +22,7 @@ XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS proj
 - **Location**: Luoyang
 - **Status**: Unranked
 
-### XPL S4 (Planned)
+### XPL S4 (Planned)[S4 Rules](S4rules.md)
 - **Dates**: May 1, 2025 - May 3, 2025
 - **Status**: Unranked
 
