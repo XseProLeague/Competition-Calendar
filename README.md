@@ -45,24 +45,32 @@ while theremaining 4 spots will be contested by the16 teams through closed quali
 - **Dates**: December 25, 2025 - December 28, 2025
 - **Status**: Ranked Tier 2
 - Rules:
-- Hosted by XinSai Esports, the event will take place from December 25 to December 28, 2025.
-- T2 event, with 12 teams invited starting from 9th place in the global VRS rankings.
-- The top 4 teams in the VRS rankings will secure direct entry into the main tournament, while the remaining 8 teams will compete for the 4 available spots in the main tournament.
+  Hosted by XinSai Esports, the event will take place from December 25 to December 28, 2025.
+  T2 event, with 12 teams invited starting from 9th place in the global VRS rankings.
+  The top 4 teams in the VRS rankings will secure direct entry into the main tournament, while the remaining 8 teams will compete for the 4 available spots in the main tournament.
 
 
 ### XPL S7 (Planned)
 - **Dates**: January 29, 2026 - February 1, 2026
 - **Status**: Ranked Tier 1
 - Rules:
-- Hosted by XinSai Esports, the event will take place from January 29 to February 1, 2026.
-- T1 event, 16 teams will be invited starting from 1st place in the Asia VRS rankings.
-- An Asian open qualifier will select 4 teams. The top 4 teams in the VRS rankings will directly enter the main tournament,
+  Hosted by XinSai Esports, the event will take place from January 29 to February 1, 2026.
+  T1 event, 16 teams will be invited starting from 1st place in the Asia VRS rankings.
+  An Asian open qualifier will select 4 teams. The top 4 teams in the VRS rankings will directly enter the main tournament,
   while the remaining 16 teams will compete for the 4 available spots in the main tournament.
 
 ### XPL S8 (Planned)
-- **Dates**: July 2026
+- **Dates**: July 9 - july 12, 2026
 - **Status**: Ranked Tier 1
+- Rules:
+  Hosted by XinSai Esports, the event will take place in July 9 to July 12, 2026.
+  T1 event, 16 teams will be invited starting from 1st place in the global VRS rankings.
+  The main tournament will feature 8 teams.
 
 ### XPL S9 (Planned)
 - **Dates**: October 3, 2026 - October 6, 2026
 - **Status**: Ranked Tier 1
+- Rules:
+  Hosted by XinSai Esports, the event will take place from October 3 to October 6, 2026.
+  T1 event, 16 teams will be invited starting from 1st place in the global VRS rankings.
+  The main tournament will feature 8 teams.
