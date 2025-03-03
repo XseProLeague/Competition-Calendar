@@ -26,9 +26,19 @@ XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS proj
 - **Dates**: May 1, 2025 - May 3, 2025
 - **Status**: Unranked
 
+- 
+
 ### XPL S5 (Planned)
 - **Dates**: July 3, 2025 - July 6, 2025
 - **Status**: Ranked Tier 2
+
+Hosted by Xinsai e-sports, the event will take place from July 3 - July 6, 2025.
+T2 event, with 16 teams invited startingfrom 1st place in the East Asia VRS rankings. 
+The open qualifiers will feature 20teams, with 4 teams advancing to closedqualifiers. 
+The main tournament will consistof 8 teams, 
+the top 4 teams from the VRS rankings will secure direct entry, 
+while theremaining 4 spots will be contested by the16 teams through closed qualifiers.
+
 
 ### XPL S6 (Planned)
 - **Dates**: December 25, 2025 - December 28, 2025
