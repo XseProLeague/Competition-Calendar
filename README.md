@@ -20,11 +20,11 @@ XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS proj
 - **Online Qualifiers**: December 30, 2024 - January 3, 2025
 - **Offline Finals**: January 9, 2025 - January 12, 2025
 - **Location**: Luoyang
-- **Status**: Unranked
+- **Status**: unRanked 
 
 ### XPL S4 (Planned)
 - **Dates**: May 1, 2025 - May 3, 2025
-- **Status**: Unranked
+- **Status**: Ranked
 
 
 ### XPL S5 (Planned)
