@@ -1,4 +1,4 @@
-# XPL-XSE PRO LEAGUE
+<img width="800" height="1194" alt="image" src="https://github.com/user-attachments/assets/5059a394-1e16-4d0a-824f-6afaea76fa37" /># XPL-XSE PRO LEAGUE
 
 XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS project has held S1, S2, and S3 seasons, all of which have been included on HLTV. XPL is known as a hidden gem in the Asian esports scene, offering a unique and competitive environment for CS players.
 
@@ -40,39 +40,45 @@ XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS proj
 
 
 ### XPL S6 (Planned)
+- **Dates**:  October 1, 2025 - October 2, 2025
+- **Status**: Ranked Tier 2
+- **Rules**:
+
+The top 4 teams will be directly invited based on the Asia VRS list as of September 2025.
+The remaining teams will qualify through two open qualifiers.
+Tournament consists of China Open Qualifier, Asia Open Qualifier, Closed Qualifier, and Semifinals/Finals. The latter two make up the Main Stage.
+China/Asia Open Qualifier: Single elimination (B01 & B03). Top 2 teams from each advance.
+Closed Qualifier: Single elimination (B03). Top 4 teams advance.
+Semifinals/Finals: Single elimination. Semifinals are BO3, Final is Bo5.
+Open & Closed Qualifiers: Online, from Sept 13 to Sept 21, 2025.
+Semifinals/Finals: Offline, from Oct 1 to Oct 2, 2025.
+Offline Venue: TBD
+Prize Pool: TBD
+Main Stage Teams: 8
+Offline Teams: 4
+
+
+### XPL S7 (Planned)
 - **Dates**: December 25, 2025 - December 28, 2025
 - **Status**: Ranked Tier 2
 - **Rules**:
   
-  Hosted by XinSai Esports, the event will take place from December 25 to December 28, 2025.
-  T2 event, with 12 teams invited starting from 9th place in the global VRS rankings.
-  The top 4 teams in the VRS rankings will secure direct entry into the main tournament, while the remaining 8 teams will compete for the 4 available spots in the main tournament.
+Starting from the 13th-ranked team in the global VRS list, 12 teams will be invited. 
+The top 4 VRS-ranked teams will directly enter the Main Stage, while the remaining 8 teams will compete for the final 4 Main Stage spots.
+Offline Venue: TBD
+Prize Pool: TBD
+Main Stage Teams: 8
+Offline Teams: 8
 
-
-### XPL S7 (Planned)
-- **Dates**: January 29, 2026 - February 1, 2026
-- **Status**: Ranked Tier 1
-- **Rules**:
-  
-  Hosted by XinSai Esports, the event will take place from January 29 to February 1, 2026.
-  T1 event, 16 teams will be invited starting from 1st place in the Asia VRS rankings.
-  An Asian open qualifier will select 4 teams. The top 4 teams in the VRS rankings will directly enter the main tournament,
-  while the remaining 16 teams will compete for the 4 available spots in the main tournament.
 
 ### XPL S8 (Planned)
-- **Dates**: July 9 - july 12, 2026
-- **Status**: Ranked Tier 1
+- **Dates**: April 2 - April 5, 2026
+- **Status**: Ranked Tier 2
 - **Rules**:
   
-  Hosted by XinSai Esports, the event will take place in July 9 to July 12, 2026.
-  T1 event, 16 teams will be invited starting from 1st place in the global VRS rankings.
-  The main tournament will feature 8 teams.
-
-### XPL S9 (Planned)
-- **Dates**: October 3, 2026 - October 6, 2026
-- **Status**: Ranked Tier 1
-- **Rules**:
-  
-  Hosted by XinSai Esports, the event will take place from October 3 to October 6, 2026.
-  T1 event, 16 teams will be invited starting from 1st place in the global VRS rankings.
-  The main tournament will feature 8 teams.
+The top 4 teams will be directly invited based on the Asia VRS list as of September. 
+The remaining teams will qualify through two open qualifiers.
+Offline Venue: TBD
+Prize Pool: TBD
+Main Stage Teams: 8
+Offline Teams: 8
