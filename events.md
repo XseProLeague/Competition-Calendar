@@ -6,14 +6,15 @@ XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS proj
 
 | Season  | Dates                                | Location  | Type          |
 |---------|--------------------------------------|-----------|---------------|
-| XPL S1  | June 24-27, 2023 (Online Qualifiers) | Shanghai  | **Ranked**    |
+| XPL S1  | June 24-27, 2023 (Online Qualifier)  | Shanghai  | **Ranked**    |
 |         | July 10-12, 2023 (Offline Finals)    | Shanghai  | **Ranked**    |
-| XPL S2  | July 30 - August 6, 2024 (Offline)   | Quzhou    | **Ranked**    |
+| XPL S2  | July 30 - August 6, 2024 (LAN)       | Quzhou    | **Ranked**    |
 | XPL S3  | Dec 30, 2024 - Jan 3, 2025 (Online)  | Luoyang   | **Unranked**  |
 |         | Jan 9-12, 2025 (Offline Finals)      | Luoyang   | **Unranked**  |
-| XPL S4  | May 1-3, 2025 (Planned)              |           | **🔴 Unranked**|
-| XPL S5  | July 3-6, 2025 (Planned)             |           | **🔴 Ranked Tier2** |
-| XPL S6  | Dec 25-28, 2025 (Planned)            |           | **🔴 Ranked Tier2** |
-| XPL S7  | Jan 29 - Feb 1, 2026 (Planned)       |           | **🔴 Ranked Tier1** |
-| XPL S8  | July 2026 (Planned)                  |           | **🔴 Ranked Tier1** |
-| XPL S9  | Oct 3-6, 2026 (Planned)              |           | **🔴 Ranked Tier1** |
+| XPL S4  | April 25-27, 2025 (Open Qualifier)   | Chengdu   | **Ranked**    |
+|         | May 13-16, 2025 (Closed Qualifier)   | Chengdu   | **Ranked**    |
+|         | May 17-18, 2025 (Offline )           | Chengdu   | **Ranked**    |               
+| XPL S5  | TBD 2025 (Planned)                   |           | **🔴 Ranked Tier2** |
+| XPL S6  | October 1-2, 2025 (Planned)          |           | **🔴 Ranked Tier2** |
+| XPL S7  | December 25-28, 2025 (Planned)       |           | **🔴 Ranked Tier2** |
+| XPL S8  | April 2-5, 2026 (Planned)            |           | **🔴 Ranked Tier2** |
