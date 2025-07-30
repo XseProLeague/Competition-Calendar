@@ -1,4 +1,4 @@
-<img width="800" height="1194" alt="image" src="https://github.com/user-attachments/assets/5059a394-1e16-4d0a-824f-6afaea76fa37" /># XPL-XSE PRO LEAGUE
+# XPL-XSE PRO LEAGUE
 
 XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS project has held S1, S2, and S3 seasons, all of which have been included on HLTV. XPL is known as a hidden gem in the Asian esports scene, offering a unique and competitive environment for CS players.
 
