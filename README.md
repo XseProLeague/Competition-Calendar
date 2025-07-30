@@ -44,18 +44,18 @@ XPL-XSE PRO LEAGUE is an Asian professional invitational tournament. The CS proj
 - **Status**: Ranked Tier 2
 - **Rules**:
 
-The top 4 teams will be directly invited based on the Asia VRS list as of September 2025.   
-The remaining teams will qualify through two open qualifiers.  
-Tournament consists of China Open Qualifier, Asia Open Qualifier, Closed Qualifier, and Semifinals/Finals. The latter two make up the Main Stage.  
-China/Asia Open Qualifier: Single elimination (B01 & B03). Top 2 teams from each advance.  
-Closed Qualifier: Single elimination (B03). Top 4 teams advance.  
-Semifinals/Finals: Single elimination. Semifinals are BO3, Final is Bo5.  
-Open & Closed Qualifiers: Online, from Sept 13 to Sept 21, 2025.  
-Semifinals/Finals: Offline, from Oct 1 to Oct 2, 2025.  
-Offline Venue: TBD  
-Prize Pool: TBD  
-Main Stage Teams: 8  
-Offline Teams: 4  
+  The top 4 teams will be directly invited based on the Asia VRS list as of September 2025. 
+  The remaining teams will qualify through two open qualifiers.  
+  Tournament consists of **China Open Qualifier**, **Asia Open Qualifier**, **Closed Qualifier**, and **Semifinals/Finals**. The latter two make up the **Main Stage**.  
+  **China/Asia Open Qualifier**: Single elimination (B01 & B03). Top 2 teams from each advance.  
+  **Closed Qualifier**: Single elimination (B03). Top 4 teams advance.  
+  **Semifinals/Finals**: Single elimination. Semifinals are BO3, Final is Bo5.  
+  **Open & Closed Qualifiers**: Online, from Sept 13 to Sept 21, 2025.  
+  **Semifinals/Finals**: Offline, from Oct 1 to Oct 2, 2025.  
+  Offline Venue: TBD     
+  Prize Pool: TBD  
+  Main Stage Teams: 8  
+  Offline Teams: 4  
 
 
 ### XPL S7 (Planned)
@@ -63,12 +63,12 @@ Offline Teams: 4
 - **Status**: Ranked Tier 2
 - **Rules**:
   
-Starting from the 13th-ranked team in the global VRS list, 12 teams will be invited. 
-The top 4 VRS-ranked teams will directly enter the Main Stage, while the remaining 8 teams will compete for the final 4 Main Stage spots.
-Offline Venue: TBD
-Prize Pool: TBD
-Main Stage Teams: 8
-Offline Teams: 8
+  Starting from the 13th-ranked team in the global VRS list, 12 teams will be invited.   
+  The top 4 VRS-ranked teams will directly enter the Main Stage, while the remaining 8 teams will compete for the final 4 Main Stage spots.  
+  Offline Venue: TBD  
+  Prize Pool: TBD  
+  Main Stage Teams: 8  
+  Offline Teams: 8  
 
 
 ### XPL S8 (Planned)
@@ -76,9 +76,9 @@ Offline Teams: 8
 - **Status**: Ranked Tier 2
 - **Rules**:
   
-The top 4 teams will be directly invited based on the Asia VRS list as of September. 
-The remaining teams will qualify through two open qualifiers.
-Offline Venue: TBD
-Prize Pool: TBD
-Main Stage Teams: 8
-Offline Teams: 8
+  The top 4 teams will be directly invited based on the Asia VRS list as of September.   
+  The remaining teams will qualify through two open qualifiers.  
+  Offline Venue: TBD  
+  Prize Pool: TBD  
+  Main Stage Teams: 8  
+  Offline Teams: 8  
